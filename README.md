@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-tom.scot65@gmail.com
+tomscot65@gmail.com
 
 <!---
 moistwrist3/moistwrist3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
