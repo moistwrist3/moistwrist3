@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moistwrist3
-- 👀 I’m interested in Python, Java, Kotlin, c# and Computer Security
+- 👀 I’m an Expert in Python, Java, Kotlin, c# and Computer Security
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
